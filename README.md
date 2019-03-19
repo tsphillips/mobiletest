@@ -15,3 +15,6 @@ How to save?
 Looks like a commit is the same as a save in this context.
 
 Let us see how big a file we can handle...
+
+The editor is... horrible.
+I miss emacs. ;-(
