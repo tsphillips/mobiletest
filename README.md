@@ -12,3 +12,6 @@ Or maybe I will just carve my initials into the moon.
 Now...
 How to save?
 
+Looks like a commit is the same as a save in this context.
+
+Let us see how big a file we can handle...
